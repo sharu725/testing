@@ -27,13 +27,7 @@
 
   {{content}}
 
-  <!-- Footer -->
-  <footer class="py-5 bg-dark">
-    <div class="container">
-      <p class="m-0 text-center text-white">Copyright &copy; Your Website 2019</p>
-    </div>
-    <!-- /.container -->
-  </footer>
+{% include footer.html %}
 
   <!-- Snipcart core Javascript -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
@@ -52,6 +46,9 @@
   <!-- Custom JavaScript for this theme -->
   <script src="/assets/js/scrolling-nav.js"></script>
 
+
+  <!-- Tidio chat script -->
+{{site.data.main.tidio-chat-script}}
 
 
 </body>

@@ -22,3 +22,20 @@ section {
   position: relative;
   top: -11px;
   color: #eee; }
+
+.product {
+  margin-bottom: 2em; }
+  .product .card img {
+    height: 250px;
+    object-fit: cover; }
+  .product .card .price {
+    color: #CF5061; }
+
+.section-headline {
+  padding-bottom: 2em; }
+
+.snip-layout .snip-header {
+  background: #CF5061 !important; }
+
+.snip-layout .snip-footer, .snip-layout .snip-header__total {
+  background: #343a40 !important; }

@@ -1,4 +1,8 @@
 title: Dragon Fruit
 description: E-commerce made easy
-
+about: A simple e-commerce Jekyll theme for simple products.
+currency: '$'
 snipcart-api: OGI1NGJiZDktMDM5Ny00MWM0LTg0ZTYtNDQ5M2FmMzQ3MzJhNjM2OTU5MjcxOTA3NDM5MjE3
+
+## Tidio chat script: Signup with www.tidio.com ==> goto https://www.tidio.com/panel/channels/widget/integration ==> Find the Javascript code and paste it here.
+tidio-chat-script: '<script src="//code.tidio.co/atcbwe5jq0ftiidebmmfwybic3nagfnf.js"></script>'
