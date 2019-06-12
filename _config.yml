@@ -1,0 +1,9 @@
+
+
+
+sass:
+  sass_dir: /assets/css/_sass
+
+
+exclude:
+  - .sass-cache
