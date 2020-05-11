@@ -1,0 +1,39 @@
+{
+   "sections":[
+      {
+         "name":"Section 1",
+         "chapters":[
+            {
+               "id":"8b8f2ddf-069a-4a7b-bfab-0e14a448e81a",
+               "name":"Chapter 1a"
+            
+},
+            {
+               "id":"e4ae7841-42de-4c21-8205-fa09d18a5000",
+               "name":"Chapter 1b"
+            
+						}
+         
+				]
+      
+},
+      {
+         "name":"Section 2",
+         "chapters":[
+            {
+               "id":"6546d758-e6b1-44e4-a68f-d34676486fb6",
+               "name":"Chapter 2a"
+            
+},
+            {
+               "id":"a932daa0-16d2-4ea5-ac52-b34d73396310",
+               "name":"Chapter 2b"
+            
+						}
+         
+					]
+      
+			}
+   
+		]
+}
